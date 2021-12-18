@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 20:03:37 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
@@ -13,53 +13,45 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>A-ESRGAN</title>
+      <link>https://example.com/project/a-esrgan/</link>
+      <pubDate>Sat, 18 Dec 2021 20:03:37 +0000</pubDate>
+      <guid>https://example.com/project/a-esrgan/</guid>
+      <description>&lt;p&gt;Blind image super-resolution(SR) is a long-standing task in CV that aims to restore low-resolution(LR) images suffering from unknown and complex distortions. Recent work has largely focused on adopting more complicated degradation models to emulate real-world degradations. The resulting models have made breakthroughs in perceptual loss and yield perceptually convincing results. However, the limitation brought by current generative adversarial network(GAN) structures is still significant: treating pixels equally leads to the ignorance of the image’s structural features, and results in performance drawbacks such as twisted lines [1] and background over-sharpening or blurring. In this paper, we present A-ESRGAN, a GAN model for blind SR tasks featuring an attention U-Net based, multi-scale discriminator that can be seamlessly integrated with other generators. To our knowledge, this is the first work to introduce attention U-Net structure as the discriminator of GAN to solve blind SR problems. And the paper also gives an interpretation for the mechanism behind multi-scale attention U-Net that brings performance breakthrough to the model. Through comparison experiments with prior works, our model presents state-of-the-art level performance on the non-reference natural image quality evaluator(NIQE) [2] metric. And our ablation studies have shown that with our discriminator, the RRDB [3] based generator can leverage the structural features of an image in multiple scales, and consequently yields more perceptually realistic high-resolution(HR) images compared to prior works.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>https://example.com/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+      <title>Battery Management System</title>
+      <link>https://example.com/project/battery-management-system/</link>
+      <pubDate>Sun, 01 Aug 2021 17:10:09 +0000</pubDate>
+      <guid>https://example.com/project/battery-management-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Report and Predict Model</title>
+      <link>https://example.com/project/buzz-receiving-and-responding-intelligent-report-classification-model/</link>
+      <pubDate>Sun, 07 Feb 2021 17:23:18 +0000</pubDate>
+      <guid>https://example.com/project/buzz-receiving-and-responding-intelligent-report-classification-model/</guid>
+      <description>&lt;p&gt;Much attention has been attracted to Vespa mandarinia since they are first spotted in the USA in 2019. As the most savage alien insects, they pose a great threat to local agriculture and citizens’ life. The State of Washington has encouraged the public to report sightings of these giant hornets while the correctness of reporting remains to be improved. In this paper, we construct an intelligent report classification model based on automatic interpretation of reported files.&lt;/p&gt;
+&lt;p&gt;First, as the premise of the model, we discuss the predictability of the spread of Asian giant hornets over time. Apart from proof from biology documents and existing models, we construct Scoring Probability Model (SPM) based on distance and number of sightings to testify that the spread is predictable. Level of precision is then calculated by estimating positive sightings among the unverified reports. The result is as low as 22.22%, which calls for further improvement.&lt;/p&gt;
+&lt;p&gt;Second, Computer Vision Process is operated on the data. We conduct data cleaning to the videos by intercepting the picture on each frame. Though the scale of given photos is highly limited, we extract the potential information to the fullest. Around 1100 photos are classified to &amp;ldquo;Hornet-Like&amp;rdquo; and &amp;ldquo;Not-Hornet&amp;rdquo; and over 600 photos are labelled by hand.After that, LeNet framework Convolutional Neural Networks (CNN) is utilized to operate Similarity Matching, then the result would be the similarity value. We then employ YOLOv3 to do object extraction algorithm to examine the quality of a photo. Both similarity value and quality of a photo constitute the score from image.&lt;/p&gt;
+&lt;p&gt;Third, we conduct Natural Language Process to the notes. After stemming and lemmatization, words are transformed to vectors by Word2vec. Similarity Matching can thus be operated. We then combine Characteristic Words Analysis and Sentimental Analysis by constructing professional word set to quantitively interpret the sentences. The results of all three techniques make up the score from text.&lt;/p&gt;
+&lt;p&gt;Our intelligent report classification model is finally built based on those two scores in combination with distance and time. The weight of each parameter is determined by Analytic Hierarchy Process (AHP). We calculate the accuracy of the likelihood of a mistaken classification as 60% and prioritize the submitted reports.&lt;/p&gt;
+&lt;p&gt;As complement to the model, we determine the method and period of update taking hornets reproduction model and citizens’ habits into consideration. We thus build a detailed update pattern and a dynamic update period system based on Difference Equation Model (DEM) and public report submission frequency. Indication of the hornets eradication is provided as well.&lt;/p&gt;
+&lt;p&gt;In conclusion, we build a intelligent report classification model by computer vision and natural language processing techniques. A complete update pattern and dynamic update period are given too. The classification model could predict the likelihood of a wrong classification within acceptable accuracy and prioritize the possible positive reports with high precision. The entire system could be used to enhance the prevention and control of the spread of Asian giant hornets in Washington.&lt;/p&gt;
+&lt;p&gt;This project wins the &lt;strong&gt;Finalist&lt;/strong&gt; prize of 2021MCM-C.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Terms</title>
-      <link>https://example.com/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Civilization Restart</title>
+      <link>https://example.com/project/civilization-restart/</link>
+      <pubDate>Fri, 07 Aug 2020 17:06:55 +0000</pubDate>
+      <guid>https://example.com/project/civilization-restart/</guid>
+      <description>&lt;p&gt;This is the final project for VG100 in UM-SJTU JI. We learn the functional programming language ELM from the scratch and use ELM to implement this game. In this game, you are the last hope of humans and are destined to save the world dominated by AI monsters. In the game, you can choose various weapons and skill trees. Apart from the game itself, we also write the background story, docs, a poster, and made a trailer.&lt;/p&gt;
+&lt;p&gt;This project won &lt;strong&gt;the highest score&lt;/strong&gt; among all games in the summer exhibition of 2020 in JI.&lt;/p&gt;
 </description>
     </item>
     
