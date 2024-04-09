@@ -18,7 +18,7 @@ title: Awards
 - Apr 2022: Dean's List
 - Dec 2021: University Honors
 - Dec 2021: Dean's List
-- Aug 2020: Academic Excellent Scholar Ship
+- Aug 2020: Academic Excellent Scholarship
 
 ## Services
 
