@@ -8,7 +8,7 @@ layout: page
 
 Here is **Zihao Wei**.
 
-I am a first year master student majoring in **Computer Science** at Universtiy of Michigan - Ann Arbor. Currently, I serve as a research assistant, advised by [Prof. Andrew Owens](https://andrewowens.com/). I previously work with with [Prof. Cihang Xie](https://cihangxie.github.io/) and [Prof. Yuying Zhou](https://yuyinzhou.github.io/) during the summer research at UCSC.
+I am a first year master student majoring in **Computer Science** at Universtiy of Michigan - Ann Arbor. Currently, I serve as a research assistant, advised by [Prof. Andrew Owens](https://andrewowens.com/). I previously work with with [Prof. Cihang Xie](https://cihangxie.github.io/) and [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) during the summer research at UCSC.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zihaowei@umich.edu*
 
