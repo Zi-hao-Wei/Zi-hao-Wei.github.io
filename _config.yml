@@ -6,7 +6,7 @@ url: https://zi-hao-wei.github.io/
 # Owner/author information
 owner:
   name: Zihao Wei
-  avatar: hanlin.jpg
+  avatar: img.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: zihaowei@umich.org
   cv: https://github.com/Zi-hao-Wei/Resume/blob/main/Resume.pdf
@@ -32,16 +32,11 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Teams
-    url: /teams/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/NewYork
