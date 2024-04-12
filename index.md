@@ -64,7 +64,7 @@ My current research revolves finding optimal representations across diverse moda
 
 - **SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**
 <br>_Yiqing Wang_, _Zihan Li_, _Jieru Mei_, **_Zihao Wei_**, Li Liu, Chen Wang, Shengtian Sang, Alan L. Yuille, Cihang Xie and Yuyin Zhou
-<br> Medical Image Computing and Computer Assisted Intervention 2023 (MICCAI 2023)
+<br> Medical Image Computing and Computer Assisted Intervention 2023 (MICCAI 2023 oral)
 
 ---
 ## Competitions
