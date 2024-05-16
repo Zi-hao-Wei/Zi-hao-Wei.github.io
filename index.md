@@ -46,8 +46,8 @@ My current research revolves finding optimal representations across diverse moda
 >_italics_ denotes equal contribution
 
 - **Masked Autoencoders are Secretly Efficient Learners**
-<br>**Zihao Wei**, Chen Wei, Jieru Mei, Zeyu Wang, Xianhang Li, Hongru Zhu, Huiyu Wang, Alan Yuille, Yuyin Zhou and Cihang Xie
-<br> Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR (CVPRW 2024)
+<br>**Zihao Wei**, Chen Wei, Jieru Mei, Yutong Bai, Zeyu Wang, Xianhang Li, Hongru Zhu, Huiyu Wang, Alan Yuille, Yuyin Zhou and Cihang Xie
+<br> Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR (CVPRW 2024 **oral**)
 
 - **Efficient Vision-Language Pre-training by Cluster Masking**
 <br>**_Zihao Wei_**, _Zixuan Pan_ and Andrew Owens
@@ -64,7 +64,7 @@ My current research revolves finding optimal representations across diverse moda
 
 - **SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**
 <br>_Yiqing Wang_, _Zihan Li_, _Jieru Mei_, **_Zihao Wei_**, Li Liu, Chen Wang, Shengtian Sang, Alan L. Yuille, Cihang Xie and Yuyin Zhou
-<br> Medical Image Computing and Computer Assisted Intervention 2023 (MICCAI 2023 oral)
+<br> Medical Image Computing and Computer Assisted Intervention 2023 (MICCAI 2023 **oral**)
 
 ---
 ## Competitions
