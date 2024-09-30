@@ -87,6 +87,7 @@ My current research revolves finding optimal representations across diverse moda
 
 ---
 ## Services
+- WACV 2025 Reviewer
 - AAAI 2025 Reviewer
 - ECCV 2024 Reviewer
 - CVPR 2024 Reviewer
