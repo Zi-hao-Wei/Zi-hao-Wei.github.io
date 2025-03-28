@@ -32,7 +32,7 @@ My current research revolves finding optimal representations across diverse moda
 ---
 
 ## News and Updates
-- **Mar 2025: ** Will join UMD as a PhD student.
+- **Mar 2025：** Will join UMD as a PhD student.
 - **Apr 2024：** One **first author** paper is accepted by the Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR. 
 - **Feb 2024：** Two **co-first author** papers is accepted by CVPR 2024.
 - **Aug 2023：** One **first author** papers is accepted by PRICAI 2023.
