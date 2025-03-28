@@ -8,14 +8,11 @@ layout: page
 
 Here is **Zihao Wei**.
 
-I am a second year master student majoring in **Computer Science** at Universtiy of Michigan - Ann Arbor. Currently, I serve as a research assistant, advised by [Prof. Andrew Owens](https://andrewowens.com/). I previously worked with with [Prof. Cihang Xie](https://cihangxie.github.io/) and [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) during the summer research at UCSC.
+I am a second-year master's student majoring in **Computer Science** at the University of Michigan - Ann Arbor. Currently, I serve as a research assistant, advised by [Prof. Andrew Owens](https://andrewowens.com/). I previously worked with [Prof. Cihang Xie](https://cihangxie.github.io/) and [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) during the summer research at UCSC. Also, I have also worked with [Prof. Chengbin Ma](https://sites.google.com/view/chbma17/home) at SJTU.  
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zihaowei@umich.edu*
 
 ## Academic Background
-
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
-
 
 - **Aug 2023 - Present:** University of Michigan (MS, Computer Science)
 - **Aug 2021 - Apr 2023:** University of Michigan (BSE, Computer Science)
@@ -35,7 +32,7 @@ My current research revolves finding optimal representations across diverse moda
 ---
 
 ## News and Updates
-
+- **Mar 2025: ** Will join UMD as a PhD student.
 - **Apr 2024：** One **first author** paper is accepted by the Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR. 
 - **Feb 2024：** Two **co-first author** papers is accepted by CVPR 2024.
 - **Aug 2023：** One **first author** papers is accepted by PRICAI 2023.
