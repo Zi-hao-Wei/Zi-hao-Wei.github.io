@@ -8,13 +8,13 @@ layout: page
 
 Here is **Zihao Wei**.
 
-I am a second-year master's student majoring in **Computer Science** at the University of Michigan - Ann Arbor. Currently, I serve as a research assistant, advised by [Prof. Andrew Owens](https://andrewowens.com/). I previously worked with [Prof. Cihang Xie](https://cihangxie.github.io/) and [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) during the summer research at UCSC. Also, I have also worked with [Prof. Chengbin Ma](https://sites.google.com/view/chbma17/home) at SJTU.  
+I am a first-year Ph.D. student in Computer Science at the University of Maryland, College Park, where I am a research assistant advised by [Prof. Ruohan Gao](https://ruohangao.github.io/). During my master’s studies, I was advised by [Prof. Andrew Owens](https://andrewowens.com/). I have also worked with [Prof. Cihang Xie](https://cihangxie.github.io/) and [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) during a summer research program at UCSC, as well as with [Prof. Chengbin Ma](https://sites.google.com/view/chbma17/home) at SJTU.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zihaowei@umich.edu*
+If you are interested in learning more about me, I would love to chat and explore potential collaboration opportunities. Please email me at - *zihaowei@umd.edu*
 
 ## Academic Background
-
-- **Aug 2023 - Present:** University of Michigan (MS, Computer Science)
+- **Sep 2025 - Present:** University of Maryland, College Park (Ph.D, Computer Science)
+- **Aug 2023 - Apr 2025:** University of Michigan (MS, Computer Science)
 - **Aug 2021 - Apr 2023:** University of Michigan (BSE, Computer Science)
 - **Sep 2019 - Aug 2023:** Shanghai Jiao Tong University (BSE, Electrical and Computer Engineering)
 
@@ -32,6 +32,7 @@ My current research revolves finding optimal representations across diverse moda
 ---
 
 ## News and Updates
+- **Aug 2025：** One paper is accepted by EMNLP 2025.
 - **Mar 2025：** Will join UMD as a PhD student.
 - **Apr 2024：** One **first author** paper is accepted by the Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR. 
 - **Feb 2024：** Two **co-first author** papers is accepted by CVPR 2024.
@@ -84,12 +85,9 @@ My current research revolves finding optimal representations across diverse moda
 
 ---
 ## Services
-- NIPS 2025 Reviewer
-- ICCV 2025 Reviewer
-- CVPR 2025 Reviewer
-- WACV 2025 Reviewer
-- AAAI 2025 Reviewer
-- ECCV 2024 Reviewer
-- CVPR 2024 Reviewer
-- ICCV 2023 Reviewer
-- CVPR 2023 Reviewer
+- AAAI Reviewer (2025, 2026)  
+- NeurIPS Reviewer (2025)  
+- ICCV Reviewer (2023, 2025)  
+- CVPR Reviewer (2023, 2024, 2025)  
+- WACV Reviewer (2025)  
+- ECCV Reviewer (2024)  
