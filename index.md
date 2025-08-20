@@ -42,6 +42,7 @@ My current research revolves finding optimal representations across diverse moda
 ---
 ## Selected Papers
 >_italics_ denotes equal contribution
+
 - **Revisiting Masked Language Modeling for Visual Feature Learning**
 <br>_Chao Feng_, **_Zihao Wei_** and Andrew Owens
 <br> The 2025 Conference on Empirical Methods in Natural Language Processing  (EMNLP 2025 Findings)
