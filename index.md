@@ -45,7 +45,7 @@ My current research revolves finding optimal representations across diverse moda
 
 - **Revisiting Masked Language Modeling for Visual Feature Learning**
 <br>_Chao Feng_, **_Zihao Wei_** and Andrew Owens
-<br> The 2025 Conference on Empirical Methods in Natural Language Processing  (EMNLP 2025 Findings)
+<br> Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing  (EMNLP 2025 Findings)
 
 - **Masked Autoencoders are Secretly Efficient Learners**
 <br>**Zihao Wei**, Chen Wei, Jieru Mei, Yutong Bai, Zeyu Wang, Xianhang Li, Hongru Zhu, Huiyu Wang, Alan Yuille, Yuyin Zhou and Cihang Xie
