@@ -94,4 +94,8 @@ My current research revolves finding optimal representations across diverse moda
 - ICCV Reviewer (2023, 2025)  
 - CVPR Reviewer (2023, 2024, 2025)  
 - WACV Reviewer (2025)  
-- ECCV Reviewer (2024)  
+- ECCV Reviewer (2024)
+
+## Teaching
+- CMSC 498K: Introduction to Multimodal Deep Learning, Fall 2025
+- EECS 376: Foundations of Computer Science, Winter 2022
