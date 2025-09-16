@@ -92,7 +92,7 @@ My current research revolves finding optimal representations across diverse moda
 - AAAI Reviewer (2025, 2026)  
 - NeurIPS Reviewer (2025)  
 - ICCV Reviewer (2023, 2025)  
-- CVPR Reviewer (2023, 2024, 2025)  
+- CVPR Reviewer (2023, 2024, 2025, 2026)  
 - WACV Reviewer (2025)  
 - ECCV Reviewer (2024)
 
