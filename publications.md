@@ -9,8 +9,8 @@ title: Publications
 >_italics_ denotes equal contribution
 
 
-- **Revisiting Masked Language Modeling for Visual Feature Learning**
-<br>_Chao Feng_, **_Zihao Wei_** and Andrew Owens
+- **Masked Diffusion Captioning for Visual Feature Learning**
+<br>Chao Feng, **Zihao Wei** and Andrew Owens
 <br> Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing  (EMNLP 2025 Findings)
 
 
