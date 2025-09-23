@@ -43,8 +43,8 @@ My current research revolves finding optimal representations across diverse moda
 ## Selected Papers
 >_italics_ denotes equal contribution
 
-- **Revisiting Masked Language Modeling for Visual Feature Learning**
-<br>_Chao Feng_, **_Zihao Wei_** and Andrew Owens
+- **Masked Diffusion Captioning for Visual Feature Learning**
+<br>Chao Feng, **Zihao Wei** and Andrew Owens
 <br> Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing  (EMNLP 2025 Findings)
 
 - **Masked Autoencoders are Secretly Efficient Learners**
@@ -90,7 +90,8 @@ My current research revolves finding optimal representations across diverse moda
 ---
 ## Services
 - AAAI Reviewer (2025, 2026)  
-- NeurIPS Reviewer (2025)  
+- NeurIPS Reviewer (2025)
+- ICLR Reviewer (2026)
 - ICCV Reviewer (2023, 2025)  
 - CVPR Reviewer (2023, 2024, 2025, 2026)  
 - WACV Reviewer (2025)  
