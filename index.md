@@ -8,7 +8,7 @@ layout: page
 
 Here is **Zihao Wei**.
 
-I am a first-year Ph.D. student in Computer Science at the University of Maryland, College Park, where I am a research assistant advised by [Prof. Ruohan Gao](https://ruohangao.github.io/). During my master’s studies, I was advised by [Prof. Andrew Owens](https://andrewowens.com/). I have also worked with [Prof. Cihang Xie](https://cihangxie.github.io/) and [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) during a summer research program at UCSC, as well as with [Prof. Chengbin Ma](https://sites.google.com/view/chbma17/home) at SJTU.
+I am a first-year Ph.D. student in Computer Science at the University of Maryland, College Park, where I work as a research assistant under the supervision of [Prof. Ruohan Gao](https://ruohangao.github.io/). Prior to this, I completed my master’s studies under the guidance of [Prof. Andrew Owens](https://andrewowens.com/) at University of Michigan, Ann Arbor. I have also had the opportunity to collaborate with [Prof. Cihang Xie](https://cihangxie.github.io/), [Prof. Yuyin Zhou](https://yuyinzhou.github.io/), and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille1/) during a summer research internship at Johns Hopkins University and the University of California, Santa Cruz. During my undergraduate studies, I worked with [Prof. Chengbin Ma](https://sites.google.com/view/chbma17/home) at Shanghai Jiao Tong University.
 
 If you are interested in learning more about me, I would love to chat and explore potential collaboration opportunities. Please email me at - *zihaowei@umd.edu*
 
@@ -22,12 +22,8 @@ If you are interested in learning more about me, I would love to chat and explor
 
 ## Research Interests
 
-- Representation Learning
+- Self-supervised Representation Learning
 - Multimodality Learning
-- Generative Model
-- Medical Image
-
-My current research revolves finding optimal representations across diverse modalities, aiming to establish robust foundations for downstream tasks within the field of computer vision.
 
 ---
 
@@ -95,7 +91,7 @@ My current research revolves finding optimal representations across diverse moda
 - ICCV Reviewer (2023, 2025)  
 - CVPR Reviewer (2023, 2024, 2025, 2026)  
 - WACV Reviewer (2025)  
-- ECCV Reviewer (2024)
+- ECCV Reviewer (2024, 2026)
 
 ## Teaching
 - CMSC 498K: Introduction to Multimodal Deep Learning, Fall 2025
