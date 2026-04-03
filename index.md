@@ -94,5 +94,6 @@ If you are interested in learning more about me, I would love to chat and explor
 - ECCV Reviewer (2024, 2026)
 
 ## Teaching
+- CMSC 848M: Multimodal Computer Vision, Spring 2026
 - CMSC 498K: Introduction to Multimodal Deep Learning, Fall 2025
 - EECS 376: Foundations of Computer Science, Winter 2022
