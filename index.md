@@ -15,6 +15,8 @@ If you are interested in learning more about me, I would love to chat and explor
 ## Academic Background
 - **Sep 2025 - Present:** University of Maryland, College Park (Ph.D, Computer Science)
 - **Aug 2023 - Apr 2025:** University of Michigan (MS, Computer Science)
+- **May 2022 - Oct 2023:** University of California, Santa Cruz (Research Intern)
+- **Summer 2022:** Johns Hopkins University (Research Intern)
 - **Aug 2021 - Apr 2023:** University of Michigan (BSE, Computer Science)
 - **Sep 2019 - Aug 2023:** Shanghai Jiao Tong University (BSE, Electrical and Computer Engineering)
 
@@ -28,6 +30,7 @@ If you are interested in learning more about me, I would love to chat and explor
 ---
 
 ## News and Updates
+- **Apr 2026: **  Join JSALT workshop at JHU.
 - **Aug 2025：** One paper is accepted by EMNLP 2025.
 - **Mar 2025：** Will join UMD as a PhD student.
 - **Apr 2024：** One **first author** paper is accepted by the Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR. 
@@ -63,6 +66,7 @@ If you are interested in learning more about me, I would love to chat and explor
 - **SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**
 <br>_Yiqing Wang_, _Zihan Li_, _Jieru Mei_, **_Zihao Wei_**, Li Liu, Chen Wang, Shengtian Sang, Alan L. Yuille, Cihang Xie and Yuyin Zhou
 <br> Medical Image Computing and Computer Assisted Intervention 2023 (MICCAI 2023 **oral**)
+
 
 ---
 ## Competitions
