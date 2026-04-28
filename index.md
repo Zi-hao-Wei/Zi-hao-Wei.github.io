@@ -30,7 +30,7 @@ If you are interested in learning more about me, I would love to chat and explor
 ---
 
 ## News and Updates
-- **Apr 2026: **  Join JSALT workshop at JHU.
+- **Apr 2026：**  Join JSALT workshop at JHU.
 - **Aug 2025：** One paper is accepted by EMNLP 2025.
 - **Mar 2025：** Will join UMD as a PhD student.
 - **Apr 2024：** One **first author** paper is accepted by the Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR. 
