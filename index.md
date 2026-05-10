@@ -67,6 +67,11 @@ If you are interested in learning more about me, I would love to chat and explor
 <br>_Yiqing Wang_, _Zihan Li_, _Jieru Mei_, **_Zihao Wei_**, Li Liu, Chen Wang, Shengtian Sang, Alan L. Yuille, Cihang Xie and Yuyin Zhou
 <br> Medical Image Computing and Computer Assisted Intervention 2023 (MICCAI 2023 **oral**)
 
+---
+## Technical Report
+
+- **Efficient Vision-Language Pre-training by Cluster Masking**
+<br> **Zihao Wei**, Zixuan Pan, Yidong Huang, Ziqiao Ma, Ziyang Chen, Joyce Chai and Andrew Owens
 
 ---
 ## Competitions
@@ -96,6 +101,7 @@ If you are interested in learning more about me, I would love to chat and explor
 - CVPR Reviewer (2023, 2024, 2025, 2026)  
 - WACV Reviewer (2025)  
 - ECCV Reviewer (2024, 2026)
+- UIST Reviewer (2026)
 
 ## Teaching
 - CMSC 848M: Multimodal Computer Vision, Spring 2026
