@@ -70,7 +70,7 @@ If you are interested in learning more about me, I would love to chat and explor
 ---
 ## Technical Report
 
-- **Efficient Vision-Language Pre-training by Cluster Masking**
+- **Bridging Audio-Visual Semantics with Language-Guided Synthesis**
 <br> **Zihao Wei**, Zixuan Pan, Yidong Huang, Ziqiao Ma, Ziyang Chen, Joyce Chai and Andrew Owens
 
 ---
