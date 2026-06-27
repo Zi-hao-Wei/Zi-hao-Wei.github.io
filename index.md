@@ -39,7 +39,7 @@ If you are interested in learning more about me, I would love to chat and explor
 
 ---
 ## Selected Papers
-> \* denotes equal contribution
+<sub>* denotes equal contribution.</sub>
 
 - **Objects as Audio-Visual Model Sound Fields**
 <br> Zisen Shao*, **Zihao Wei***, Derong Jin and Ruohan Gao
