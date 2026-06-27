@@ -93,7 +93,7 @@ If you are interested in learning more about me, I would love to chat and explor
 
 ---
 ## Services
-- Reviwer: TPAMI, CVPR, ICCV, ECCV, ICLR, NeurIPS, AAI, WACV, UIST
+- Reviwer: TPAMI, CVPR, ICCV, ECCV, ICLR, NeurIPS, AAAI, WACV, UIST
 
 ## Teaching
 - CMSC 848M: Multimodal Computer Vision, Spring 2026
