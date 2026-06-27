@@ -93,14 +93,7 @@ If you are interested in learning more about me, I would love to chat and explor
 
 ---
 ## Services
-- AAAI Reviewer (2025, 2026)  
-- NeurIPS Reviewer (2025)
-- ICLR Reviewer (2026)
-- ICCV Reviewer (2023, 2025)  
-- CVPR Reviewer (2023, 2024, 2025, 2026)  
-- WACV Reviewer (2025)  
-- ECCV Reviewer (2024, 2026)
-- UIST Reviewer (2026)
+- Reviwer: TPAMI, CVPR, ICCV, ECCV, ICLR, NeurIPS, AAI, WACV, UIST
 
 ## Teaching
 - CMSC 848M: Multimodal Computer Vision, Spring 2026
