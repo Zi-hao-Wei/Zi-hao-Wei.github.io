@@ -39,35 +39,65 @@ If you are interested in learning more about me, I would love to chat and explor
 
 ---
 ## Selected Papers
-<sub>* denotes equal contribution.</sub>
+<p><sub>* denotes equal contribution.</sub></p>
 
-- **Objects as Audio-Visual Model Sound Fields**
-<br> Zisen Shao*, **Zihao Wei***, Derong Jin and Ruohan Gao
-<br> The 19th European Conference on Computer Vision (ECCV 2026)
+<ul>
 
-- **Masked Diffusion Captioning for Visual Feature Learning**
-<br> Chao Feng, **Zihao Wei** and Andrew Owens
-<br> Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings)
+<li>
+<b>Objects as Audio-Visual Model Sound Fields</b><br>
+Zisen Shao*, <b>Zihao Wei*</b>, Derong Jin and Ruohan Gao<br>
+<i>The 19th European Conference on Computer Vision (ECCV 2026)</i>
+</li>
 
-- **Masked Autoencoders are Secretly Efficient Learners**
-<br> **Zihao Wei**, Chen Wei, Jieru Mei, Yutong Bai, Zeyu Wang, Xianhang Li, Hongru Zhu, Huiyu Wang, Alan Yuille, Yuyin Zhou and Cihang Xie
-<br> Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR (CVPRW 2024 **oral**)
+<br>
 
-- **Efficient Vision-Language Pre-training by Cluster Masking**
-<br> **Zihao Wei***, Zixuan Pan* and Andrew Owens
-<br> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR 2024)
+<li>
+<b>Masked Diffusion Captioning for Visual Feature Learning</b><br>
+Chao Feng, <b>Zihao Wei</b> and Andrew Owens<br>
+<i>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings)</i>
+</li>
 
-- **MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections**
-<br> Mude Hui*, **Zihao Wei***, Hongru Zhu, Fei Xia and Yuyin Zhou
-<br> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR 2024)
+<br>
 
-- **A-ESRGAN: Training Real-World Blind Super-Resolution with Attention U-Net Discriminators**
-<br> **Zihao Wei**, Yidong Huang, Yuang Chen, Chenhao Zheng and Jingnan Gao
-<br> Pacific Rim International Conference on Artificial Intelligence 2023: Trends in Artificial Intelligence (PRICAI 2023)
+<li>
+<b>Masked Autoencoders are Secretly Efficient Learners</b><br>
+<b>Zihao Wei</b>, Chen Wei, Jieru Mei, Yutong Bai, Zeyu Wang, Xianhang Li, Hongru Zhu, Huiyu Wang, Alan Yuille, Yuyin Zhou and Cihang Xie<br>
+<i>Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR (CVPRW 2024 <b>Oral</b>)</i>
+</li>
 
-- **SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**
-<br> Yiqing Wang*, Zihan Li*, Jieru Mei*, **Zihao Wei***, Li Liu, Chen Wang, Shengtian Sang, Alan L. Yuille, Cihang Xie and Yuyin Zhou
-<br> Medical Image Computing and Computer Assisted Intervention 2023 (MICCAI 2023 **oral**)
+<br>
+
+<li>
+<b>Efficient Vision-Language Pre-training by Cluster Masking</b><br>
+<b>Zihao Wei*</b>, Zixuan Pan* and Andrew Owens<br>
+<i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>
+</li>
+
+<br>
+
+<li>
+<b>MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections</b><br>
+Mude Hui*, <b>Zihao Wei*</b>, Hongru Zhu, Fei Xia and Yuyin Zhou<br>
+<i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>
+</li>
+
+<br>
+
+<li>
+<b>A-ESRGAN: Training Real-World Blind Super-Resolution with Attention U-Net Discriminators</b><br>
+<b>Zihao Wei</b>, Yidong Huang, Yuang Chen, Chenhao Zheng and Jingnan Gao<br>
+<i>Pacific Rim International Conference on Artificial Intelligence 2023: Trends in Artificial Intelligence (PRICAI 2023)</i>
+</li>
+
+<br>
+
+<li>
+<b>SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation</b><br>
+Yiqing Wang*, Zihan Li*, Jieru Mei*, <b>Zihao Wei*</b>, Li Liu, Chen Wang, Shengtian Sang, Alan L. Yuille, Cihang Xie and Yuyin Zhou<br>
+<i>Medical Image Computing and Computer Assisted Intervention (MICCAI 2023 <b>Oral</b>)</i>
+</li>
+
+</ul>
 
 ---
 ## Technical Report
