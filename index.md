@@ -44,7 +44,7 @@ If you are interested in learning more about me, I would love to chat and explor
 <ul>
 
 <li>
-<b>Objects as Audio-Visual Model Sound Fields</b><br>
+<b>Objects as Audio-Visual Modal Sound Fields</b><br>
 Zisen Shao*, <b>Zihao Wei*</b>, Derong Jin and Ruohan Gao<br>
 <i>The 19th European Conference on Computer Vision (ECCV 2026)</i>
 </li>
