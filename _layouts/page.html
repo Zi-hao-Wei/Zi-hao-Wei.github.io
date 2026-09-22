@@ -1,61 +1,34 @@
-<!-- Lastly modified by Hanlin CAI in 2023/04/26 -->
-<!-- It is not recommended to modify this code, unless you are a Pro-->
-
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-
+<html lang="en">
 <head>
 {% include head.html %}
-<!-- Google tag (gtag.js) -->
+<!-- Preserve existing page analytics. -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-M356QK09PR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-M356QK09PR');
-</script>
-
-  
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-M356QK09PR');</script>
 </head>
-
-
-<body class="page" itemscope itemtype="http://schema.org/WebPage">
-
-{% include chrome-frame.html %}
-
-{% include navigation.html %}
-
-{% if page.image.feature %}<div class="image-wrap">
-  <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
-</div><!-- /.image-wrap -->{% endif %}
-
-<div id="main" role="main"  itemprop="mainContentOfPage">
-  <div class="article-author-top">
-    {% include author-bio.html %}
-  </div>
-  <article itemscope itemtype="http://schema.org/CreativeWork">
-  {% comment %}
-    <div class="headline-wrap">
-      <h1 itemprop="headline">{{ page.title }}</h1>
-    </div><!--/ .headline-wrap -->
-  {% endcomment %}
-    <div class="article-wrap" itemprop="text">
-      {{ content }}
-    </div><!-- /.article-wrap -->
-  </article>
-</div><!-- /#index -->
-
-<div class="footer-wrap">
-  <footer>
-    {% include footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-{% include scripts.html %}
-
+<body class="academic {{ page.page_class }}">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><div class="header-inner">
+  <a class="wordmark" href="{{ '/' | relative_url }}">Zihao Wei<span aria-hidden="true">.</span></a>
+  <nav aria-label="Main navigation">{% for link in site.links %}<a href="{{ link.url | relative_url }}"{% assign normalized_url = page.url | remove: 'index.html' %}{% if normalized_url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>{% endfor %}</nav>
+</div></header>
+<div class="site-shell">
+  <aside class="profile" aria-label="About Zihao Wei">
+    <a href="{{ '/' | relative_url }}"><img class="profile-photo" src="{{ '/images/' | append: site.owner.avatar | relative_url }}" alt="Zihao Wei" width="220" height="220"></a>
+    <h2>Zihao Wei</h2>
+    <p class="profile-role">Ph.D. Student · Computer Science</p>
+    <p class="profile-affiliation">University of Maryland<br>College Park</p>
+    <div class="profile-divider"></div>
+    <a class="profile-email" href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a>
+    <div class="profile-links">
+      <a href="{{ site.owner.scholar }}">Google Scholar <span aria-hidden="true">↗</span></a>
+      <a href="https://github.com/{{ site.owner.github }}">GitHub <span aria-hidden="true">↗</span></a>
+      <a href="{{ site.owner.cv }}">Curriculum Vitae <span aria-hidden="true">↗</span></a>
+    </div>
+    <p class="profile-caption">Vision · Audio · Language</p>
+  </aside>
+  <main id="main" class="main-content">{{ content }}</main>
+</div>
+<footer class="site-footer"><span>© {{ site.time | date: '%Y' }} Zihao Wei</span><a href="mailto:{{ site.owner.email }}">Let’s connect <span aria-hidden="true">↗</span></a></footer>
 </body>
 </html>

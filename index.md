@@ -1,14 +1,37 @@
 ---
 layout: page
+page_class: home
+description: Zihao Wei — Ph.D. student at the University of Maryland, researching multimodal and self-supervised learning.
 ---
 
-# About Me
-
-Here is **Zihao Wei**.
+<header class="intro-heading"><p class="eyebrow">MULTIMODAL LEARNING · COMPUTER VISION</p><h1>Learning to see,<br>hear, and understand.</h1><p class="intro-name">Hi, I’m <strong>Zihao Wei.</strong></p></header>
 
 I am a second-year Ph.D. student in Computer Science at the University of Maryland, College Park, where I work as a research assistant under the supervision of [Prof. Ruohan Gao](https://ruohangao.github.io/). Prior to this, I completed my master’s studies under the guidance of [Prof. Andrew Owens](https://andrewowens.com/) at University of Michigan, Ann Arbor. I have also had the opportunity to collaborate with [Prof. Cihang Xie](https://cihangxie.github.io/), [Prof. Yuyin Zhou](https://yuyinzhou.github.io/), and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille1/) during a summer research internship at Johns Hopkins University and the University of California, Santa Cruz. During my undergraduate studies, I worked with [Prof. Chengbin Ma](https://sites.google.com/view/chbma17/home) at Shanghai Jiao Tong University.
 
 If you are interested in learning more about me, I would love to chat and explore potential collaboration opportunities. Please email me at - *zihaowei@umd.edu*
+
+<div class="interest-tags" aria-label="Research interests"><span>Self-supervised learning</span><span>Multimodal learning</span></div>
+
+## News and Updates
+- **Jun 2026：**  One **co-first author** paper is accepted by ECCV 2026.
+- **Apr 2026：**  Join JSALT workshop at JHU.
+- **Aug 2025：** One paper is accepted by EMNLP 2025.
+- **Mar 2025：** Will join UMD as a PhD student.
+- **Apr 2024：** One **first author** paper is accepted by the Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR. 
+- **Feb 2024：** Two **co-first author** papers are accepted by CVPR 2024.
+- **Aug 2023：** One **first author** paper is accepted by PRICAI 2023.
+- **Jun 2023：** One **co-first author** paper is accepted as **oral** by MICCAI 2023.
+
+---
+<div class="section-heading" id="research"><div><p class="eyebrow">RESEARCH</p><h2>Selected publications</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">↗</span></a></div>
+
+<p class="section-note">* denotes equal contribution. Click a figure to explore the method.</p>
+
+{% include projects.html kind="paper" %}
+
+## Technical report
+
+{% include projects.html kind="report" %}
 
 ## Academic Background
 - **Sep 2025 - Present:** University of Maryland, College Park (Ph.D, Computer Science)
@@ -18,111 +41,18 @@ If you are interested in learning more about me, I would love to chat and explor
 - **Aug 2021 - Apr 2023:** University of Michigan (BSE, Computer Science)
 - **Sep 2019 - Aug 2023:** Shanghai Jiao Tong University (BSE, Electrical and Computer Engineering)
 
----
-
-## Research Interests
-
-- Self-supervised Representation Learning
-- Multimodality Learning
-
----
-
-## News and Updates
-- **Jun 2026：**  One **co-first author** paper is accepted by ECCV 2026.
-- **Apr 2026：**  Join JSALT workshop at JHU.
-- **Aug 2025：** One paper is accepted by EMNLP 2025.
-- **Mar 2025：** Will join UMD as a PhD student.
-- **Apr 2024：** One **first author** paper is accepted by the Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR. 
-- **Feb 2024：** Two **co-first author** papers is accepted by CVPR 2024.
-- **Aug 2023：** One **first author** papers is accepted by PRICAI 2023.
-- **Jun 2023：** One **co-first author** papers is accepted as **oral** by MICCAI 2023.
-
----
-## Selected Papers
-<p><sub>* denotes equal contribution.</sub></p>
-
-<ul>
-
-<li>
-<b>Objects as Audio-Visual Modal Sound Fields</b><br>
-Zisen Shao*, <b>Zihao Wei*</b>, Derong Jin and Ruohan Gao<br>
-<i>The 19th European Conference on Computer Vision (ECCV 2026)</i>
-</li>
-
-<br>
-
-<li>
-<b>Masked Diffusion Captioning for Visual Feature Learning</b><br>
-Chao Feng, <b>Zihao Wei</b> and Andrew Owens<br>
-<i>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings)</i>
-</li>
-
-<br>
-
-<li>
-<b>Masked Autoencoders are Secretly Efficient Learners</b><br>
-<b>Zihao Wei</b>, Chen Wei, Jieru Mei, Yutong Bai, Zeyu Wang, Xianhang Li, Hongru Zhu, Huiyu Wang, Alan Yuille, Yuyin Zhou and Cihang Xie<br>
-<i>Efficient Deep Learning for Computer Vision Workshop 2024 at CVPR (CVPRW 2024 <b>Oral</b>)</i>
-</li>
-
-<br>
-
-<li>
-<b>Efficient Vision-Language Pre-training by Cluster Masking</b><br>
-<b>Zihao Wei*</b>, Zixuan Pan* and Andrew Owens<br>
-<i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>
-</li>
-
-<br>
-
-<li>
-<b>MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections</b><br>
-Mude Hui*, <b>Zihao Wei*</b>, Hongru Zhu, Fei Xia and Yuyin Zhou<br>
-<i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>
-</li>
-
-<br>
-
-<li>
-<b>A-ESRGAN: Training Real-World Blind Super-Resolution with Attention U-Net Discriminators</b><br>
-<b>Zihao Wei</b>, Yidong Huang, Yuang Chen, Chenhao Zheng and Jingnan Gao<br>
-<i>Pacific Rim International Conference on Artificial Intelligence 2023: Trends in Artificial Intelligence (PRICAI 2023)</i>
-</li>
-
-<br>
-
-<li>
-<b>SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation</b><br>
-Yiqing Wang*, Zihan Li*, Jieru Mei*, <b>Zihao Wei*</b>, Li Liu, Chen Wang, Shengtian Sang, Alan L. Yuille, Cihang Xie and Yuyin Zhou<br>
-<i>Medical Image Computing and Computer Assisted Intervention (MICCAI 2023 <b>Oral</b>)</i>
-</li>
-
-</ul>
-
----
-## Technical Report
-
-- **Bridging Audio-Visual Semantics with Language-Guided Synthesis**
-<br> **Zihao Wei**, Zixuan Pan, Yidong Huang, Ziqiao Ma, Ziyang Chen, Joyce Chai and Andrew Owens
-
----
 ## Competitions
 - May 2021：Third Prize in 11-th Innovation, Creativity and Entrepreneurship Comptetition
-- Feb 2021：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1%)
-- Dec 2020：**<font color='red'>The Excellence Awards</font>** in World Robot Competition Finalsan and Smart Robot Expo (Top 1)
-- Dec 2019：**<font color='red'>Best Design Awards</font>** in China trails for 2019 VEX World Companships
+- Feb 2021：**<span class="honor">Finalist Award</span>** in Mathematical Contest In Modeling (Top 1%)
+- Dec 2020：**<span class="honor">The Excellence Awards</span>** in World Robot Competition Finalsan and Smart Robot Expo (Top 1)
+- Dec 2019：**<span class="honor">Best Design Awards</span>** in China trails for 2019 VEX World Companships
 
 ---
 ## Honors
-- Aug 2023: Summa Cum Laude
-- Apr 2023: Dean's List
-- Dec 2022: University Honors
-- Dec 2022: Dean's List
-- Apr 2022: University Honors
-- Apr 2022: Dean's List
-- Dec 2021: University Honors
-- Dec 2021: Dean's List
-- Aug 2020: Academic Excellent Scholarship
+- **Summa Cum Laude** — Aug 2023
+- **Dean's List** — Apr 2023, Dec 2022, Apr 2022, Dec 2021
+- **University Honors** — Dec 2022, Apr 2022, Dec 2021
+- **Academic Excellent Scholarship** — Aug 2020
 
 ---
 ## Services

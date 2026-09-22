@@ -10,15 +10,10 @@ title: Awards
 - Dec 2019：**<font color='red'>Best Design Awards</font>** in China trails for 2019 VEX World Companships
 
 ## Honors
-- Aug 2023: Summa Cum Laude
-- Apr 2023: Dean's List
-- Dec 2022: University Honors
-- Dec 2022: Dean's List
-- Apr 2022: University Honors
-- Apr 2022: Dean's List
-- Dec 2021: University Honors
-- Dec 2021: Dean's List
-- Aug 2020: Academic Excellent Scholarship
+- **Summa Cum Laude** — Aug 2023
+- **Dean's List** — Apr 2023, Dec 2022, Apr 2022, Dec 2021
+- **University Honors** — Dec 2022, Apr 2022, Dec 2021
+- **Academic Excellent Scholarship** — Aug 2020
 
 ## Services
 

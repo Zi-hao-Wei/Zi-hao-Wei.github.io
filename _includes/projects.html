@@ -1,0 +1,24 @@
+<div class="project-list">
+{% for project in site.data.projects %}{% if project.kind == include.kind %}
+<article class="project-card{% unless project.image %} project-card-text{% endunless %}" id="{{ project.id }}">
+  {% if project.image %}<figure class="project-figure">
+    <a class="figure-link" href="{{ project.image | relative_url }}" aria-label="View full-size figure: {{ project.title | escape }}">
+      <img src="{{ project.image | relative_url }}" alt="{{ project.image_alt | escape }}" loading="lazy" decoding="async" width="800" height="460">
+      <span class="figure-zoom" aria-hidden="true">↗</span>
+    </a>
+    <figcaption><a href="{{ project.image_source }}">{% if project.id == 'mae' or project.id == 'av-msf' %}Teaser{% else %}Method overview{% endif %} · Source ↗</a></figcaption>
+  </figure>{% endif %}
+  <div class="project-copy">
+    <div class="project-meta"><span>{{ project.venue }}</span>{% if project.award %}<span class="award-badge">{{ project.award }}</span>{% endif %}</div>
+    <h3><a href="{{ project.paper }}">{{ project.title }}</a></h3>
+    <p class="project-authors">{{ project.authors }}</p>
+    <p class="project-summary">{{ project.summary }}</p>
+    <div class="project-links" aria-label="Resources for {{ project.title | escape }}">
+      <a class="resource-link paper-link" href="{{ project.paper }}">Paper <span aria-hidden="true">↗</span></a>
+      {% if project.website %}<a class="resource-link" href="{{ project.website }}">Website <span aria-hidden="true">↗</span></a>{% endif %}
+      {% if project.code %}<a class="resource-link" href="{{ project.code }}">{{ project.code_label | default: 'Code' }} <span aria-hidden="true">↗</span></a>{% endif %}
+    </div>
+  </div>
+</article>
+{% endif %}{% endfor %}
+</div>
