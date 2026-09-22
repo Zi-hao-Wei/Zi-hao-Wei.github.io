@@ -4,7 +4,7 @@ page_class: home
 description: Zihao Wei — Ph.D. student at the University of Maryland, researching multimodal and self-supervised learning.
 ---
 
-<header class="intro-heading"><p class="eyebrow">MULTIMODAL LEARNING · COMPUTER VISION</p><h1>Learning to see,<br>hear, and understand.</h1><p class="intro-name">Hi, I’m <strong>Zihao Wei.</strong></p></header>
+<header class="intro-heading"><p class="intro-name">Hi, I’m <strong>Zihao Wei.</strong></p></header>
 
 I am a second-year Ph.D. student in Computer Science at the University of Maryland, College Park, where I work as a research assistant under the supervision of [Prof. Ruohan Gao](https://ruohangao.github.io/). Prior to this, I completed my master’s studies under the guidance of [Prof. Andrew Owens](https://andrewowens.com/) at University of Michigan, Ann Arbor. I have also had the opportunity to collaborate with [Prof. Cihang Xie](https://cihangxie.github.io/), [Prof. Yuyin Zhou](https://yuyinzhou.github.io/), and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille1/) during a summer research internship at Johns Hopkins University and the University of California, Santa Cruz. During my undergraduate studies, I worked with [Prof. Chengbin Ma](https://sites.google.com/view/chbma17/home) at Shanghai Jiao Tong University.
 
